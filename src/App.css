@@ -1,0 +1,188 @@
+.App {
+  text-align: center;
+
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.Appname
+{
+  padding:5px;
+  background-color:#558B2F ;
+  color:white;
+}
+
+.app-title
+{
+  font-weight: bolder;
+}
+
+.pics
+{
+  margin:0 auto;
+  margin-top: 5px;
+}
+
+.img_height{
+  height:300px;
+  width:auto;
+}
+
+.arrows .slick-prev{
+    background-color: #558B2F;
+    z-index: 1000;
+    margin-left: 30px;
+  }
+
+  .arrows .slick-next{
+      background-color: #558B2F;
+      z-index: 1000;
+      margin-right: 30px;
+    }
+
+
+.content{
+  background-color: #DCEDC8;
+  border: solid 1px #DCEDC8;
+  margin-top: 2px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom: none;
+  font-weight: bold;
+  padding-top: 5px;
+}
+
+.item-delivery
+{
+  background-color: #DCEDC8;
+  border-bottom: solid 1px #DCEDC8;
+  border-left: solid 1px #DCEDC8;
+  border-right: solid 1px #DCEDC8;
+  margin: 0 0.4px;
+  font-weight: bolder;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.product-title
+{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-top:5px;
+  border-radius: 5px;
+  color:white;
+  background-color:#558B2F;
+  font-weight: bolder;
+  border: solid 1px #558B2F;
+}
+
+.title
+{
+font-size: 18px;
+}
+
+.item_detail
+{
+  margin-top: 5px;
+}
+
+.item_title
+{
+margin-top: 5px;
+font-weight: bolder;
+}
+
+.item-heading
+{
+  margin-top: 5px;
+  border:solid 1px #558B2F;
+  background-color:#558B2F;
+  color:white;
+  border-radius: 5px;
+  font-weight: bolder;
+}
+
+.post
+{
+  margin-left: 10px;
+}
+
+.description
+{
+  margin-top:8px;
+
+}
+
+.desc-title
+{
+  background-color:#558B2F;
+  border:solid 1px #558B2F;
+  border-radius: 5px;
+  padding:5px;
+  font-weight: bold;
+  color:white;
+}
+
+.desc-content
+{
+  background-color: #DCEDC8;
+  border: solid 1px #DCEDC8;
+  margin-top: 5px;
+  border-radius: 5px;
+  padding:10px;
+  font-weight: bold;
+}
+
+.seller-detail
+{
+  margin-top: 8px;
+}
+
+.download
+{
+  border: solid 1px #DCEDC8;
+  margin-top: 5px;
+  border-radius: 5px;
+  background-color: #000000;
+}
+
+.loading
+{
+  text-align: center;
+  margin:0 auto;
+  margin-top: 300px;
+}
+
+span
+{
+  padding:10px;
+}
+
+.Message-id-not-found
+{
+  margin: 0 auto;
+
+}
